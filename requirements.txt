@@ -1,0 +1,5 @@
+# Try these in order (install only one):
+# simpleble>=0.1.0  # Recommended - easiest to install
+# bleak>=0.21.0     # Most common, but has build issues on MSYS2 Python
+# pybluez>=0.23     # Classic Bluetooth (Windows/Linux only)
+
